@@ -22,5 +22,5 @@ In this project, i will:
  - Use Ridge regression to refine the performance of Linear regression models. 
 
 ## SKILLS
-In this project, i used a Machine Learning Model to predict the price of a house based on some features of the dataset.
+In this project, i used a Machine Learning Model to predict the insurances cost of operations based on some features of the dataset.
 This project is a concrete situtaion that i use a Linear Regression Model.
